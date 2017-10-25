@@ -1,0 +1,3 @@
+#define VERSION "@mtrap_VERSION@"
+#define DATA_DIR "@mtrap_DATA_DIR@"
+

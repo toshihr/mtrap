@@ -1,0 +1,26 @@
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+config.h
+CPackConfig.cmake
+CPackSourceConfig.cmake
+Makefile
+
+src/CMakeFiles/
+src/mtrap
+src/test_tree
+*.cmake
+*.cmake.in
+CMakeLists.txt.user
+
+# backup
+*~
+
+# binary
+*.o
+
+.DS_Store
+
+.vscode
+
+result-*.fasta

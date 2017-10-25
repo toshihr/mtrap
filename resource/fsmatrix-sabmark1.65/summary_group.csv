@@ -1,0 +1,422 @@
+Group,N reference alignments,Average Length,SCOP sunid,SCOP description,Matrix,Gap INIT,Gap EXT
+1,300,149,46458,Globin-like,group1.mat,10,1
+2,6,146,46548,alpha-helical ferredoxin,group2.mat,19,1
+3,10,84,46566,Chaperone J-domain,group3.mat,11,2
+4,6,80,46589,tRNA-binding arm,group4.mat,30,1
+5,28,89,46610,"Fe,Mn superoxide dismutase (SOD), N-terminal domain",group5.mat,19,1
+6,300,124,46627,monodomain cytochrome c,group6.mat,8,1
+7,300,68,46689,Homeodomain-like,group7.mat,8,1
+8,3,85,46771,O6-alkylguanine-DNA alkyltransferase,group8.mat,15,5
+9,3,112,46775,ARID domain,group9.mat,11,1
+10,300,111,46785,Winged helix DNA-binding domain,group10.mat,9,1
+11,15,91,46894,C-terminal effector domain of the bipartite response regulators,group11.mat,13,3
+12,10,51,46934,UBA-like,group12.mat,20,2
+13,21,92,46946,S13-like H2TH domain,group13.mat,23,1
+14,36,77,46955,Putative DNA-binding domain,group14.mat,16,1
+15,21,115,46966,Spectrin repeat,group15.mat,26,2
+16,10,144,46978,Succinate dehydrogenase/fumarate reductase flavoprotein C-terminal domain,group16.mat,26,2
+17,3,56,46997,Bacterial immunoglobulin/albumin-binding domains,group17.mat,5,5
+18,6,39,47015,Protozoan pheromone proteins,group18.mat,15,2
+19,3,110,47032,Second domain of FERM,group19.mat,10,3
+20,3,71,47060,S15/NS1 RNA-binding domain,group20.mat,12,2
+21,21,80,47097,"HMG1, domains A and B",group21.mat,17,1
+22,45,99,47113,Histone-fold,group22.mat,17,1
+23,21,125,47180,Cytochrome c',group23.mat,10,3
+24,3,158,47196,TMV-like viral coat proteins,group24.mat,10,2
+25,10,166,47203,Acyl-CoA dehydrogenase C-terminal domain-like,group25.mat,17,2
+26,120,240,47240,Ferritin-like,group26.mat,15,4
+27,105,147,47305,Interferons/interleukin-10 (IL-10),group27.mat,7,1
+28,28,165,47325,Methionyl-tRNA synthetase (MetRS),group28.mat,9,2
+29,15,85,47336,ACP-like,group29.mat,10,3
+30,3,80,47354,Retrovirus capsid protein C-terminal domain,group30.mat,18,2
+31,3,85,47365,Domain of the SRP/SRP receptor G-proteins,group31.mat,7,3
+32,6,123,47370,Bromodomain,group32.mat,18,1
+33,66,70,47413,lambda repressor-like DNA-binding domains,group33.mat,8,1
+34,21,75,47460,Helix-loop-helix DNA-binding domain,group34.mat,17,1
+35,300,140,47473,EF-hand,group35.mat,11,1
+36,21,116,47576,"Calponin-homology domain, CH-domain",group36.mat,20,1
+37,10,62,47598,Met repressor-like,group37.mat,15,1
+38,231,133,47617,"Glutathione S-transferase (GST), C-terminal domain",group38.mat,10,1
+39,6,70,47649,Nucleoside phosphorylase/phosphoribosyltransferase N-terminal domain,group39.mat,11,7
+40,3,109,47662,t-snare proteins,group40.mat,11,10
+41,6,88,47699,Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin,group41.mat,13,1
+42,6,86,47729,IHF-like DNA-binding proteins,group42.mat,7,2
+43,3,89,47742,CO dehydrogenase ISP C-domain like,group43.mat,12,1
+44,10,75,47773,SAM (sterile alpha motif) domain,group44.mat,11,1
+45,6,97,47781,RuvA domain 2-like,group45.mat,11,3
+46,10,114,47815,Flap endonuclease-1 (Fen-1 nuclease),group46.mat,17,1
+47,10,110,47836,Retroviral matrix proteins,group47.mat,11,1
+48,6,79,47863,NKL-like,group48.mat,9,1
+49,15,282,47875,Annexin,group49.mat,19,2
+50,3,126,47918,C-terminal domain of alpha and beta subunits of F1 ATP synthase,group50.mat,19,1
+51,3,141,47944,"Retrovirus capsid protein, N-terminal core domain",group51.mat,11,2
+52,91,122,47954,Cyclin-like,group52.mat,11,1
+53,55,104,47986,DEATH domain,group53.mat,9,1
+54,3,116,48020,"DNA polymerase III clamp loader subunits, C-terminal domain",group54.mat,14,2
+55,3,209,48066,DBL homology domain (DH-domain),group55.mat,18,1
+56,10,150,48098,"Regulator of G-protein signalling, RGS",group56.mat,9,1
+57,36,346,48114,CCP-like,group57.mat,11,1
+58,28,196,48150,DNA-glycosylase,group58.mat,16,1
+59,6,266,48175,C-terminal domain of DNA photolyase,group59.mat,20,1
+60,36,179,48179,6-phosphogluconate dehydrogenase C-terminal domain-like,group60.mat,16,1
+61,55,448,48208,Six-hairpin glycosyltransferases,group61.mat,8,1
+62,10,355,48234,"Hyaluronate lyase-like catalytic, N-terminal domain",group62.mat,19,1
+63,10,300,48239,Terpenoid cylases/Protein prenyltransferases,group63.mat,8,1
+64,15,392,48258,Citrate synthase,group64.mat,22,1
+65,36,410,48265,Cytochrome P450,group65.mat,12,2
+67,3,235,48351,BCR-homology GTPase activation domain (BH-domain),group67.mat,7,2
+68,36,246,48371,ARM repeat,group68.mat,9,4
+69,28,153,48404,Ankyrin repeat,group69.mat,32,2
+70,28,179,48453,Tetratricopeptide repeat (TPR),group70.mat,14,1
+71,3,147,48468,VHS domain,group71.mat,11,5
+72,28,245,48509,Nuclear receptor ligand-binding domain,group72.mat,17,3
+73,3,253,48537,Phospholipase C/P1 nuclease,group73.mat,32,3
+74,10,168,48552,Serum albumin-like,group74.mat,16,3
+75,6,456,48558,L-aspartase/fumarase,group75.mat,46,1
+76,45,123,48624,Snake phospholipase A2,group76.mat,17,1
+77,171,206,48696,Cytochrome c3-like,group77.mat,9,1
+78,300,124,48727,V set domains (antibody variable domain-like),group78.mat,10,1
+79,300,102,49266,Fibronectin type III,group79.mat,5,1
+80,3,107,49304,beta-Galactosidase/glucuronidase domain,group80.mat,8,1
+81,21,107,49309,"Transglutaminase, two C-terminal domains",group81.mat,10,2
+82,6,110,49314,Cadherin,group82.mat,12,2
+83,6,112,49320,Actinoxanthin-like,group83.mat,11,1
+84,6,150,49341,"Copper chaperone for superoxide dismutase, C-terminal domain",group84.mat,9,3
+85,6,130,49348,Clathrin adaptor appendage domain,group85.mat,14,3
+86,15,95,49373,Invasin/intimin cell-adhesion fragments,group86.mat,12,6
+87,28,140,49384,Carbohydrate-binding domain,group87.mat,8,2
+88,21,149,49401,Bacterial adhesins,group88.mat,9,1
+89,21,192,81315,"Rel/Dorsal transcription factors, DNA-binding domain",group89.mat,10,1
+90,6,105,49453,Starch-binding domain,group90.mat,22,6
+91,3,250,49483,Aromatic compound dioxygenase,group91.mat,9,1
+92,300,165,49503,Cupredoxins,group92.mat,7,1
+93,10,136,49575,Synaptotagmin-like (S variant),group93.mat,15,1
+94,3,166,49599,TRAF domain-like,group94.mat,23,1
+95,36,88,49695,gamma-Crystallin-like,group95.mat,13,1
+96,3,156,49742,PHM/PNGase F,group96.mat,6,3
+97,10,219,49749,Group II dsDNA viruses VP,group97.mat,18,1
+98,3,125,49764,HSP20-like chaperones,group98.mat,28,1
+99,300,165,49785,Galactose-binding domain-like,group99.mat,3,1
+100,21,223,49820,"Virus capsid protein vp7 (BTV-10 vp7), central (top) domain",group100.mat,21,5
+101,6,159,49837,"Adenovirus fiber protein ""knob"" domain",group101.mat,12,3
+102,10,143,49843,TNF-like,group102.mat,14,1
+103,3,104,49864,"Hyaluronate lyase-like, C-terminal domain",group103.mat,23,1
+104,6,129,49879,SMAD/FHA domain,group104.mat,19,1
+105,300,199,49899,Concanavalin A-like lectins/glucanases,group105.mat,6,1
+106,21,144,50023,Rieske iron-sulfur protein (ISP),group106.mat,16,1
+107,3,62,50037,C-terminal domain of transcriptional repressors,group107.mat,14,5
+108,231,70,50045,SH3-domain,group108.mat,15,1
+109,10,128,50090,Electron transport accessory proteins,group109.mat,22,1
+110,15,95,50104,Translation proteins SH3-like domain,group110.mat,12,1
+111,3,101,50130,GroES,group111.mat,23,7
+112,120,99,50157,PDZ domain,group112.mat,10,1
+113,45,72,50183,"Sm motif of small nuclear ribonucleoproteins, SNRNP",group113.mat,12,1
+114,66,100,50203,Bacterial enterotoxins,group114.mat,11,1
+115,6,155,50242,TIMP-like,group115.mat,12,1
+116,300,145,50249,Nucleic acid-binding proteins,group116.mat,5,1
+117,3,211,50326,Inorganic pyrophosphatase,group117.mat,11,1
+118,36,73,50331,MOP-like,group118.mat,7,1
+119,15,138,50354,Fibroblast growth factors (FGF),group119.mat,12,1
+120,28,130,50370,Ricin B-like lectins,group120.mat,8,1
+121,21,191,50386,STI-like,group121.mat,9,2
+122,3,116,50405,Actin-crosslinking proteins,group122.mat,12,3
+123,10,157,50448,Elongation factors,group123.mat,17,1
+124,3,101,50467,Elongation factor Tu (EF-Tu),group124.mat,21,1
+125,10,179,50475,FMN-binding split barrel,group125.mat,49,1
+126,300,239,50495,Prokaryotic proteases,group126.mat,12,1
+127,3,76,50616,N-terminal domain of alpha and beta subunits of F1 ATP synthase,group127.mat,17,1
+128,55,235,50646,Pepsin-like,group128.mat,16,1
+129,6,182,50678,ValRS/IleRS/LeuRS editing domain,group129.mat,22,1
+130,36,131,50708,Cdc48 N-terminal domain-like,group130.mat,10,1
+131,171,118,50729,PH domain-like,group131.mat,7,1
+132,3,100,50802,Pyruvate kinase (PK),group132.mat,8,4
+133,300,151,50814,Lipocalins,group133.mat,7,1
+134,3,167,50892,Cyclophilin (peptidylprolyl isomerase),group134.mat,9,2
+135,6,196,50924,Hemopexin-like domain,group135.mat,17,6
+136,28,405,50940,Sialidases (neuraminidases),group136.mat,13,1
+137,6,311,50978,WD40 repeat-like,group137.mat,10,2
+138,300,82,51012,"alpha-Amylases, C-terminal beta-sheet domain",group138.mat,5,1
+139,10,43,51046,WW domain,group139.mat,13,1
+140,3,246,51071,Carbonic anhydrase,group140.mat,11,1
+141,3,209,51098,"delta-Endotoxin (insectocide), middle domain",group141.mat,15,5
+142,3,112,51112,Lectin (agglutinin),group142.mat,10,1
+143,66,374,51126,Pectin lyase-like,group143.mat,5,1
+144,28,219,51161,Trimeric LpxA-like enzymes,group144.mat,18,1
+145,78,190,51182,RmlC-like cupins,group145.mat,11,1
+146,6,320,51197,Clavaminate synthase-like,group146.mat,8,1
+147,21,135,51206,cAMP-binding domain-like,group147.mat,13,1
+148,28,90,51231,Biotinyl/lipoyl-carrier proteins and domains,group148.mat,12,3
+149,10,79,51247,BC C-terminal domain-like,group149.mat,15,3
+150,3,154,51262,Glucose permease-like,group150.mat,16,2
+151,3,119,51280,"Urease, beta-subunit",group151.mat,16,1
+152,10,137,51285,Deoxyuridine 5'-triphosphate nucleotidohydrolase (dUTPase),group152.mat,13,2
+153,3,240,51353,Triosephosphate isomerase,group153.mat,10,3
+154,66,233,51366,Ribulose-phoshate binding barrel,group154.mat,8,1
+155,10,345,51396,FMN-linked oxidoreductases,group155.mat,12,1
+156,10,329,51431,Aldo-keto reductases (NADP),group156.mat,13,1
+157,300,445,51445,(Trans)glycosidases,group157.mat,10,1
+158,28,344,51556,Metallo-dependent hydrolases,group158.mat,6,1
+159,171,286,51570,Class I aldolase,group159.mat,7,1
+160,28,256,51604,Enolase C-terminal domain-like,group160.mat,10,1
+161,15,316,51621,Phosphoenolpyruvate/pyruvate domain,group161.mat,10,2
+162,3,369,51666,D-xylose isomerase,group162.mat,14,7
+163,3,298,51679,Bacterial luciferase-like,group163.mat,17,1
+164,3,265,51695,PLC-like phosphodiesterases,group164.mat,20,2
+165,6,513,51703,Cobalamin (vitamin B12)-dependent enzymes,group165.mat,19,1
+166,300,281,51735,NAD(P)-binding Rossmann-fold domains,group166.mat,9,1
+167,210,131,51905,FAD/NAD(P)-binding domain,group167.mat,7,1
+168,3,332,51993,Cellobiohydrolase II (Cel6),group168.mat,12,3
+170,10,284,52047,RNI-like,group170.mat,30,1
+171,91,208,52058,L domain-like,group171.mat,7,1
+172,21,251,52103,Crotonase-like,group172.mat,15,1
+173,6,94,52113,BRCT domain,group173.mat,13,2
+174,15,155,52123,Lumazine synthase,group174.mat,14,3
+175,10,211,52141,DNA glycosylase,group175.mat,9,1
+176,55,132,52173,CheY-related,group176.mat,16,1
+177,55,177,52219,Flavodoxin-related,group177.mat,10,2
+178,6,156,52243,Cobalamin (vitamin B12)-binding domain,group178.mat,36,1
+179,3,249,52266,SGHN hydrolase,group179.mat,9,4
+180,3,149,52306,Type II 3-dehydroquinate dehydratase,group180.mat,17,6
+181,36,202,52317,Class I glutamine amidotransferase-like,group181.mat,6,1
+182,91,148,52343,"Ferredoxin reductase-like, C-terminal NADP-linked domain",group182.mat,11,1
+183,78,256,52374,Nucleotidylyl transferase,group183.mat,8,1
+184,36,199,81393,"Large, alpha subunit of electron transfer flavoprotein ETFP, N-terminal domain",group184.mat,10,1
+185,6,195,52427,DNA photolyase,group185.mat,15,2
+186,66,111,52440,PreATP-grasp domain,group186.mat,11,1
+187,66,185,52467,DHS-like NAD/FAD-binding domain,group187.mat,8,1
+188,10,211,52492,Cell-division protein FtsZ,group188.mat,15,3
+189,6,211,52499,Cysteine hydrolase,group189.mat,26,2
+190,136,218,52518,Thiamin diphosphate-binding fold (THDP-binding),group190.mat,7,1
+191,300,301,52540,P-loop containing nucleoside triphosphate hydrolases,group191.mat,9,1
+192,28,317,52743,Subtilisin-like,group192.mat,12,1
+193,3,326,52768,Arginase/deacetylase,group193.mat,7,2
+194,15,223,52782,Dihydrolipoamide acetyltransferase,group194.mat,18,1
+195,3,148,52789,Low-molecular-weight phosphotyrosine protein phosphatases,group195.mat,11,1
+196,55,219,52799,(Phosphotyrosine protein) phosphatases II,group196.mat,14,1
+197,3,146,52821,Rhodanese/Cell cycle control phosphatase,group197.mat,5,2
+198,300,124,52833,Thioredoxin-like,group198.mat,5,1
+199,15,150,52922,TK C-terminal domain-like,group199.mat,14,1
+200,3,129,52937,"Pyruvate kinase, C-terminal domain",group200.mat,15,1
+201,3,176,52949,Macro domain-like,group201.mat,16,1
+202,28,111,52955,Anticodon-binding domain of Class II aaRS,group202.mat,12,1
+203,91,205,52980,Restriction endonuclease-like,group203.mat,6,1
+204,6,209,53058,beta-carbonic anhydrase,group204.mat,18,1
+205,153,212,53067,Actin-like ATPase domain,group205.mat,5,1
+206,55,211,53098,Ribonuclease H-like,group206.mat,11,1
+207,6,132,53137,Translational machinery components,group207.mat,18,1
+208,3,260,53169,"Purine nucleoside phosphorylase, PNP",group208.mat,19,6
+209,28,312,53187,Zn-dependent exopeptidases,group209.mat,11,2
+210,78,151,53236,Tetrahydrofolate dehydrogenase/cyclohydrolase,group210.mat,12,1
+211,15,243,53254,Phosphoglycerate mutase-like,group211.mat,21,1
+212,55,217,53272,Phosphoribosyltransferases (PRTases),group212.mat,16,1
+213,15,200,53301,Integrin A (or I) domain,group213.mat,19,1
+214,300,271,53335,S-adenosyl-L-methionine-dependent methyltransferases,group214.mat,6,1
+215,300,407,53383,PLP-dependent transferases,group215.mat,6,1
+216,28,251,53448,Nucleotide-diphospho-sugar transferases,group216.mat,9,2
+217,300,360,53474,alpha/beta-Hydrolases,group217.mat,6,1
+218,21,171,53598,Dihydrofolate reductases,group218.mat,14,2
+219,3,322,53614,Ribokinase-like,group219.mat,8,6
+220,3,293,53635,Carbamate kinase,group220.mat,14,1
+221,3,234,53640,AraD-like aldolase/epimerase,group221.mat,14,2
+222,3,468,53651,Alkaline phosphatase,group222.mat,16,1
+223,6,465,53659,Isocitrate/Isopropylmalate dehydrogenases,group223.mat,11,1
+224,45,161,53676,Ornithine transcarbamoylase,group224.mat,13,1
+225,6,120,53681,Aspartate/glutamate racemase,group225.mat,11,1
+226,10,336,53694,1-aminocyclopropane-1-carboxylate deaminase,group226.mat,10,1
+227,3,455,53702,"Phosphoglucose isomerase, PGI",group227.mat,21,1
+228,3,634,53707,"Formate dehydrogenase/DMSO reductase, domains 1-3",group228.mat,18,1
+229,15,487,53722,"Aldehyde reductase (dehydrogenase), ALDH",group229.mat,27,1
+230,21,141,53738,"Phosphoglucomutase, first 3 domains",group230.mat,13,1
+231,3,407,53750,Phosphoglycerate kinase,group231.mat,23,2
+232,3,499,53756,UDP-Glycosyltransferase/glycogen phosphorylase,group232.mat,9,1
+233,3,327,53776,Asparaginase type II,group233.mat,13,1
+234,6,320,53802,Ferrochelatase,group234.mat,15,2
+235,21,361,53807,Helical backbone metal receptor,group235.mat,8,1
+236,45,317,53823,L-arabinose binding protein-like,group236.mat,9,1
+237,153,328,53850,Periplasmic binding protein-like II,group237.mat,6,1
+238,153,182,53901,Thiolase-like,group238.mat,11,1
+239,6,144,53927,Cytidine deaminase-like,group239.mat,23,2
+240,3,103,53933,Microbial ribonucleases,group240.mat,8,4
+241,55,179,53955,Lysozyme-like,group241.mat,8,1
+242,190,278,54001,Cysteine proteinases,group242.mat,9,1
+243,6,159,54060,His-Me finger endonucleases,group243.mat,1,1
+244,3,127,54077,Ribonuclease A-like,group244.mat,9,2
+245,66,70,54118,Interleukin 8-like chemokines,group245.mat,15,1
+246,10,63,54160,Chromo domain-like,group246.mat,11,1
+247,10,70,54171,DNA-binding domain,group247.mat,11,2
+248,3,124,54189,Ribosomal proteins L23 and L15e,group248.mat,12,1
+249,3,153,54197,HIT-like,group249.mat,11,2
+250,105,140,54211,Ribosomal protein S5 domain 2-like,group250.mat,5,1
+251,105,90,54236,Ubiquitin-like,group251.mat,7,1
+252,10,94,54278,CAD domain,group252.mat,12,1
+253,3,72,54285,MoaD/ThiS,group253.mat,10,1
+254,171,101,54293,2Fe-2S ferredoxin-related,group254.mat,8,1
+255,3,116,54328,Staphylokinase/streptokinase,group255.mat,8,4
+256,28,110,54335,"Superantigen toxins, C-terminal domain",group256.mat,16,1
+257,91,119,54373,"FAD-linked reductases, C-terminal domain",group257.mat,7,2
+258,10,103,54407,Cystatins,group258.mat,20,1
+259,28,104,54416,Amine oxidase N-terminal region,group259.mat,12,1
+260,45,137,54432,Nuclear transport factor-2 (NTF2),group260.mat,10,1
+261,105,146,54453,MHC antigen-recognition domain,group261.mat,15,2
+262,36,149,54497,"Ubiquitin conjugating enzyme, UBC",group262.mat,13,1
+263,3,140,54525,Pilin,group263.mat,7,3
+264,91,120,54535,FKBP immunophilin/proline isomerase,group264.mat,13,1
+265,21,74,54557,Chitinase insertion domain,group265.mat,12,3
+266,55,147,54593,Glyoxalase/Bleomycin resistance protein/Dihydroxybiphenyl dioxygenase,group266.mat,12,1
+267,10,146,54637,Thioesterase/thiol ester dehydrase-isomerase,group267.mat,16,3
+268,3,65,54655,CI-2 family of serine protease inhibitors,group268.mat,9,5
+269,6,135,54666,CO dehydrogenase molybdoprotein N-domain-like,group269.mat,16,1
+270,3,113,54677,"Quinolinic acid phosphoribosyltransferase (NadC), N-terminal domain",group270.mat,11,4
+271,15,98,54696,BTB/POZ domain,group271.mat,10,2
+272,3,123,54713,"Elongation factor Ts (EF-Ts), dimerisation domain",group272.mat,23,1
+273,45,114,54720,"Fe,Mn superoxide dismutase (SOD), C-terminal domain",group273.mat,17,1
+274,28,89,54768,dsRNA-binding domain-like,group274.mat,18,1
+275,21,81,54792,Eukaryotic type KH-domain (KH-domain type I),group275.mat,16,1
+276,10,88,54815,Prokaryotic type KH domain (KH-domain type II),group276.mat,16,1
+277,6,131,54827,Enolase N-terminal domain-like,group277.mat,6,2
+278,91,107,54862,4Fe-4S ferredoxins,group278.mat,9,1
+279,15,84,54897,Protease propeptides/inhibitors,group279.mat,14,1
+280,3,101,54909,Dimeric alpha+beta barrel,group280.mat,13,6
+281,6,98,54913,GlnB-like,group281.mat,23,3
+282,6,143,54921,Nucleoside diphosphate kinases,group282.mat,20,1
+283,231,89,54929,Canonical RBD,group283.mat,11,1
+284,3,83,54980,EF-G C-terminal domain-like,group284.mat,21,2
+285,36,72,55009,Metal-binding domain,group285.mat,10,1
+286,3,90,55021,Regulatory domain in the aminoacid metabolism,group286.mat,10,2
+287,6,140,55060,"GHMP Kinase, C-terminal domain",group287.mat,14,2
+288,3,206,55099,Beta chain,group288.mat,5,2
+289,6,127,55120,Pseudouridine synthase,group289.mat,24,6
+290,6,123,55174,Alpha-L RNA-binding motif,group290.mat,33,1
+291,6,185,55196,"Ribosome recycling factor, RRF",group291.mat,17,1
+292,3,124,55241,"Ribulose 1,5-bisphosphate carboxylase-oxygenase",group292.mat,12,1
+293,3,78,55288,RPB5,group293.mat,1,1
+294,10,127,55298,YjgF-like,group294.mat,5,1
+295,6,153,55309,Cell-division protein FtsZ,group295.mat,20,2
+296,3,116,55316,L30e/L7ae ribosomal proteins,group296.mat,32,1
+297,15,101,55339,MIF-related,group297.mat,36,8
+298,66,160,55349,Glyceraldehyde-3-phosphate dehydrogenase (GAPDH),group298.mat,19,9
+299,66,119,55425,"FAD/NAD-linked reductases, dimerisation (C-terminal) domain",group299.mat,9,3
+300,3,114,55448,CO dehydrogenase flavoprotein C-terminal domain-like,group300.mat,6,3
+301,6,148,55464,"Origin of replication-binding domain, RBD-like",group301.mat,8,2
+302,6,218,55476,Oxygen-insensitive NAD(P)H nitroreductase,group302.mat,14,1
+303,231,292,55486,"Metalloproteases (""zincins""), catalytic domain",group303.mat,11,1
+304,3,142,55545,beta-N-acetylhexosaminidase-like domain,group304.mat,10,2
+305,120,116,55551,SH2 domain,group305.mat,16,1
+306,6,86,55595,HPr-like,group306.mat,10,2
+307,6,130,55608,Homing endonucleases,group307.mat,33,1
+308,15,149,55620,Tetrahydrobiopterin biosynthesis enzymes-like,group308.mat,15,1
+309,28,294,55682,"Class II aminoacyl-tRNA synthetase (aaRS)-like, catalyic domain",group309.mat,15,1
+310,66,185,55730,"N-acetyl transferase, NAT",group310.mat,10,1
+311,55,129,55762,Cofilin-like,group311.mat,12,1
+312,3,130,55772,Profilin (actin-binding protein),group312.mat,14,1
+313,6,172,55782,GAF domain,group313.mat,17,1
+314,21,116,55785,PYP-like sensor domain (PAS domain),group314.mat,12,1
+315,3,196,55805,IIA domain of mannitol-specific and ntr phosphotransferase EII,group315.mat,23,1
+316,10,147,55811,Nudix,group316.mat,18,1
+317,6,275,55832,Thymidylate synthase/dCMP hydroxymethylase,group317.mat,19,1
+318,3,89,55857,Cytochrome b5,group318.mat,7,1
+319,28,187,55874,ATPase domain of HSP90 chaperone/DNA topoisomerase II/histidine kinase,group319.mat,11,1
+320,10,203,55896,Ribonuclease Rh-like,group320.mat,8,1
+321,10,282,55909,Pentein,group321.mat,13,4
+322,6,255,55921,Creatinase/aminopeptidase,group322.mat,28,1
+323,3,303,55931,Glutamine synthase/guanido kinase,group323.mat,10,1
+324,15,97,55945,TATA-box binding protein-like,group324.mat,13,1
+325,3,122,55958,"Phosphoglucomutase, C-terminal domain",group325.mat,8,1
+326,10,194,55962,Pathogenesis-related protein 10 (PR10)-like,group326.mat,12,2
+327,3,133,55973,S-adenosylmethionine synthetase,group327.mat,14,1
+328,45,123,55979,DNA clamp,group328.mat,6,1
+329,3,633,56004,Molybdemum cofactor-binding domain,group329.mat,19,4
+330,3,111,56030,Monooxygenase (hydroxylase) regulatory protein,group330.mat,11,1
+331,6,84,56053,Ribosomal protein L6,group331.mat,14,1
+332,45,243,56059,Glutathione synthetase ATP-binding domain-like,group332.mat,8,1
+333,78,308,88854,"Protein kinases, catalytic subunit",group333.mat,12,1
+334,28,210,56177,"FAD-linked oxidases, N-terminal domain",group334.mat,12,1
+335,6,116,64419,Holo-(acyl carrier protein) synthase ACPS,group335.mat,7,4
+336,300,233,56236,Class II glutamine amidotransferases,group336.mat,12,1
+337,21,243,56281,Metallo-hydrolase/oxidoreductase,group337.mat,14,1
+338,15,285,56300,Metallo-dependent phosphatases,group338.mat,13,1
+339,66,171,56328,"Lactate & malate dehydrogenases, C-terminal domain",group339.mat,11,2
+340,28,251,56372,Plant cytotoxins,group340.mat,14,3
+341,28,206,56399,ADP-ribosylation,group341.mat,12,1
+342,21,132,56426,"Succinate dehydrogenase/fumarate reductase flavoprotein, catalytic domain",group342.mat,10,1
+343,276,120,56437,C-type lectin domain,group343.mat,7,1
+344,3,225,56498,Fibrinogen C-terminal domains,group344.mat,11,1
+345,3,376,56575,Serpins,group345.mat,10,2
+346,78,285,56606,"beta-Lactamase, class A",group346.mat,11,1
+347,10,508,56635,Heme-linked catalases,group347.mat,20,1
+348,10,239,56645,Acyl-CoA dehydrogenase NM domain-like,group348.mat,15,1
+349,10,306,56656,"Inositol monophosphatase/fructose-1,6-bisphosphatase-like",group349.mat,12,3
+350,15,447,56672,DNA/RNA polymerases,group350.mat,12,1
+351,3,315,56753,D-aminoacid aminotransferase-like PLP-dependent enzymes,group351.mat,16,1
+352,21,220,56784,HAD-like,group352.mat,15,2
+354,3,223,56838,Colicin,group354.mat,12,2
+355,3,238,56851,"delta-Endotoxin (insectocide), N-terminal domain",group355.mat,16,1
+356,6,180,56855,Bcl-2 inhibitors of programmed cell death,group356.mat,23,2
+358,3,158,56925,OMPA-like,group358.mat,17,8
+359,21,446,56935,Porins,group359.mat,21,1
+360,6,37,57017,Hevein-like agglutinin (lectin) domain,group360.mat,28,1
+361,210,37,57072,Spider toxins,group361.mat,6,1
+362,231,48,57097,Scorpion toxin,group362.mat,9,1
+363,28,110,57185,Growth factor receptor domain,group363.mat,13,1
+364,6,41,57190,Colipase-like,group364.mat,9,1
+365,300,47,57196,EGF/Laminin,group365.mat,7,1
+366,10,50,57262,Leech antihemostatic proteins,group366.mat,4,4
+367,45,68,57303,Snake venom toxins,group367.mat,12,1
+368,78,59,57363,Small Kunitz-type ihibitors & BPTI-like toxins,group368.mat,8,1
+369,78,40,57393,Defensin,group369.mat,10,1
+370,3,89,57414,Hairpin loop containing domain-like,group370.mat,15,9
+371,36,43,57424,LDL receptor-like module,group371.mat,15,1
+372,3,46,57430,Crambin-like,group372.mat,7,1
+373,66,73,57440,Kringle-like,group373.mat,12,1
+374,55,53,57467,Ovomucoid/PCI-1 like inhibitors,group374.mat,8,1
+375,3,57,57493,Trefoil,group375.mat,5,1
+376,36,113,57501,Cystine-knot cytokines,group376.mat,15,1
+377,231,64,57535,Complement control module/SCR domain,group377.mat,9,1
+378,3,53,57553,Blood coagulation inhibitor (disintegrin),group378.mat,1,1
+379,10,65,57568,ATI-like,group379.mat,13,1
+380,36,45,57586,TNF receptor-like,group380.mat,16,1
+381,15,46,57603,FnI-like domain,group381.mat,9,4
+382,10,72,57654,HIPIP (high potential iron protein),group382.mat,15,2
+383,171,35,57667,C2H2 and C2HC zinc fingers,group383.mat,8,2
+384,10,45,57702,Zn2/Cys6 DNA-binding domain,group384.mat,12,1
+385,300,51,57716,Glucocorticoid receptor-like (DNA-binding domain),group385.mat,10,1
+386,3,38,57757,Retrovirus zinc finger-like domains,group386.mat,10,1
+387,3,35,57776,"Microbial and mitochondrial ADK, insert ""zinc finger"" domain",group387.mat,6,1
+388,36,62,57783,Zinc beta-ribbon,group388.mat,17,1
+389,10,58,57802,Rubredoxin-like,group389.mat,11,1
+390,6,70,57829,Zn-binding ribosomal proteins,group390.mat,3,2
+391,55,76,57851,"RING finger domain, C3HC4",group391.mat,12,1
+392,15,42,57870,Metallothionein,group392.mat,20,2
+393,6,53,57889,Cysteine-rich domain,group393.mat,16,2
+394,15,64,57903,FYVE/PHD zinc finger,group394.mat,7,4
+395,10,108,57925,Inhibitor of apoptosis (IAP) repeat,group395.mat,19,1
+396,136,139,63381,Ferredoxin reductase FAD-binding domain-like,group396.mat,8,1
+397,66,212,63411,LuxS/MPP-like metallohydrolase,group397.mat,9,1
+398,3,49,63451,LEM domain,group398.mat,11,3
+399,3,84,63571,PABC (PABP) domain,group399.mat,6,3
+400,6,94,63748,Tudor/PWWP/MBT,group400.mat,10,1
+401,6,89,88852,SirA-like,group401.mat,7,2
+402,6,141,75521,Clathrin coat assembly domain,group402.mat,7,4
+403,3,69,64588,C-terminal domain of ProRS,group403.mat,9,1
+404,3,44,68907,SAP domain,group404.mat,8,1
+405,3,225,68925,Phosphoenolpyruvate (PEP) carboxykinase (ATP-oxaloacetate carboxy-liase),group405.mat,15,6
+406,3,102,69697,SRP19,group406.mat,14,5
+407,28,284,50006,"Hyaluronate lyase-like, central domain",group407.mat,14,2
+408,300,121,81296,E set domains,group408.mat,3,1
+409,6,173,81588,"Poly(A) polymerase N-terminal, catalytic domain",group409.mat,15,1
+410,3,175,81319,Bacteriorhodopsin-like,group410.mat,9,7
+411,6,108,81323,Voltage-gated potassium channels,group411.mat,13,5
+412,10,149,81373,Succinate dehydrogenase/Fumarate reductase transmembrane subunits (SdhC/FrdC and SdhD/FrdD),group412.mat,20,2
+413,3,237,81451,Cytochrome c oxidase subunit III-like,group413.mat,38,15
+414,6,80,81463,"Cytochrome c oxidase subunit II-like, transmembrane region",group414.mat,19,2
+415,3,302,81482,"Bacterial photosystem II reaction centre, L and M subunits",group415.mat,16,5
+416,10,127,81623,N-terminal domain of MutM-like DNA repair proteins,group416.mat,13,2
+417,3,80,82057,Prokaryotic SH3-related domain,group417.mat,34,1
+418,3,180,82200,Histone lysine methyltransferases,group418.mat,30,1
+419,300,248,88633,Positive stranded ssRNA viruses,group419.mat,10,1
+420,21,350,88645,ssDNA viruses,group420.mat,8,4
+421,3,363,88648,Group I dsDNA viruses,group421.mat,11,1
+422,3,157,88650,Satellite viruses,group422.mat,12,4
+423,6,62,88659,Sigma3 and sigma4 domains of RNA polymerase sigma factors,group423.mat,11,3
+424,3,139,88697,PUA domain-like,group424.mat,8,8
+425,3,124,88947,Sigma2 domain of RNA polymerase sigma factors,group425.mat,19,1
