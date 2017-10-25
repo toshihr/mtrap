@@ -1,7 +1,7 @@
 MTRAP is a sequence alignment program by a new measure based on transition
 probability between two consecutive pairs of residues.
 
-** version 2 is under development to catch up with modern environment. **
+**version 2 is under development to catch up with modern environment.**
 
 ## Build & Install
 
@@ -73,7 +73,7 @@ mtrap [OPTIONS] inputfile outputfile
 ```
 
 ## Links
-* Original site: [Ohya Lab.](http://www.rs.noda.tus.ac.jp/~ohya-m/)
+* Original site: [Ohya Lab.](http://www.rs.noda.tus.ac.jp/~ohya-m/) (Ohya Lab. was closed)
 * Paper: Hara T., Sato K., Ohya M., "MTRAP: Pairwise sequence alignment algorithm by a new measure based on transition probability between two consecutive pairs of residues", BMC Bioinformatics 2010, 11:235. [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-235)
 
 ## License
