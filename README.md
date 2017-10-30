@@ -76,7 +76,7 @@ MTRAP version 2 introduces the following state-of-the-art approaches in addition
 * Partition function posterior probability [Probcons](http://probcons.stanford.edu/)
 * T-Coffee style iterations & consistency transformations [T-Coffee](http://www.tcoffee.org/Projects/tcoffee/)
 
-As a result, profile matrix is calculated as followings:
+As a result, profile matrix is calculated as below:
 1. Calculate profile := pf * (MTRAP profile) + (1 - pf) * (posterior probability profile),
   where MTRAP profile is the paper version profile, i.e. e * Transition-quantity + (1 - e) * Score-matrix.
 
