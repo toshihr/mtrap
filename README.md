@@ -71,16 +71,18 @@ mtrap [OPTIONS] inputfile outputfile
 ```
 
 ## Version 2
-MTRAP version 2 introduces the following state-of-the-art approaches in addition to Transition-quantity.
+MTRAP version 2 uses the following state-of-the-art approaches in addition to Transition-quantity.
 
-* Partition function posterior probability [Probcons](http://probcons.stanford.edu/)
-* T-Coffee style iterations & consistency transformations [T-Coffee](http://www.tcoffee.org/Projects/tcoffee/)
+* Partition function posterior probability
+* Iterations & consistency transformations
+
+These are introduced by [ProbCons](http://genome.cshlp.org/content/15/2/330.abstract)
 
 As a result, profile matrix is calculated as below:
 1. Calculate profile := pf * (MTRAP profile) + (1 - pf) * (posterior probability profile),
   where MTRAP profile is the paper version profile, i.e. e * Transition-quantity + (1 - e) * Score-matrix.
 
-2. Smooth the profile by using T-Coffee style iterations & consistency transformations.
+2. Smooth the profile by using iterations & consistency transformations.
 
 ## Documents
 * [Making transition quantity](./doc/make_transition_quantity.md)
