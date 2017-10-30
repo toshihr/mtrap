@@ -1,8 +1,6 @@
 MTRAP is a sequence alignment program by a new measure based on transition
 probability between two consecutive pairs of residues.
 
-**version 2 is under development to catch up with modern environment.**
-
 ## Build & Install
 
   ```
@@ -71,6 +69,24 @@ mtrap [OPTIONS] inputfile outputfile
                  n: do not round the substitution matrix
 -outbintm      [FILENAME]  output binary format transition-quantity matrix
 ```
+
+## Version 2
+MTRAP version 2 introduces the following state-of-the-art approaches in addition to Transition-quantity.
+
+* Partition function posterior probability [Probcons](http://probcons.stanford.edu/)
+* T-Coffee style iterations & consistency transformations [T-Coffee](http://www.tcoffee.org/Projects/tcoffee/)
+
+As a result, profile matrix is calculated as followings:
+1. Calculate profile := pf * (MTRAP profile) + (1 - pf) * (posterior probability profile),
+  where MTRAP profile is the paper version profile, i.e. e * Transition-quantity + (1 - e) * Score-matrix.
+
+2. Smooth the profile by using T-Coffee style iterations & consistency transformations.
+
+## Documents
+* [Making transition quantity](./doc/make_transition_quantity.md)
+* [Details of the dynamic programming](./doc/proof.md)
+* [Resources](./doc/resource.md)
+* [Utility scripts](./doc/utils.md)
 
 ## Links
 * Original site: [Ohya Lab.](http://www.rs.noda.tus.ac.jp/~ohya-m/) (Ohya Lab. was closed)
