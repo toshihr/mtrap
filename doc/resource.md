@@ -1,5 +1,10 @@
 # Resources
 
+* Transition-quantity is stored in the directory `/resource`.
+* Text format version is here: https://cdn.andgo.io/tq.zip
+
+## Summary
+
 * EBLOSUM{40,62,80} - BLOSUM matrix obtained from ClostalW [Clustal]
 * EPAM{120,250,350} - PAM matrix obtained from ClostalW [Clustal]
 * {BBS_,RV}*.btq - binary transition-quantity generated from from BAliBASE database [BAliBASE]
@@ -8,6 +13,7 @@
 * prefab4*.btq - binary transition-quantity generated from PREFAB database [Prefab]
 * SABmark*.btq - binary transition-quantity generated from SABmark database [SABmark]
 * VTML200I - VTML matrix [VTML]
+
 
 # References
 * [Clustal] http://www.clustal.org/clustal2/
