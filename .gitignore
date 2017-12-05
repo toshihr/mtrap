@@ -25,3 +25,10 @@ CMakeLists.txt.user
 .vscode
 
 result-*.fasta
+
+# TQ generate results
+utils/TQ
+_freq.tmp2
+_list.tmp
+_list.tmp2
+
